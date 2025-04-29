@@ -31,6 +31,14 @@
 - Service Workers (para suporte offline)  
 - Itch.io (para publicação)
 
+## 🔥 Sprites
+![Image](https://github.com/user-attachments/assets/fc112fe0-4cea-436c-ad52-48366c729d9a)
+![Image](https://github.com/user-attachments/assets/a60a4129-d3cf-43c4-96f1-246e4a45d479)
+![Image](https://github.com/user-attachments/assets/78809103-c964-4899-835a-8a4f39509b04)
+![Image](https://github.com/user-attachments/assets/396235db-2819-43bf-921f-e73b6c6c78e4)
+![Image](https://github.com/user-attachments/assets/7b8c62e4-0e28-4d09-8357-22dd2586f232)
+![Image](https://github.com/user-attachments/assets/e54e0f22-8785-48b0-a099-f8e008f56dc8)
+
 ## 📄 Licença
 
 Este projeto tem fins educativos. Todos os direitos dos personagens pertencem aos seus respectivos autores.
