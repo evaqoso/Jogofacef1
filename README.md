@@ -8,6 +8,7 @@
 
 👉 [Clique aqui para jogar](https://brunomachxdo.itch.io/chavesjogo)
 
+
 ## 🖼️ Prints da Aplicação
 
 ### Tela inicial:
@@ -21,6 +22,7 @@
 
 ### Gameplay:
 ![Image](https://github.com/user-attachments/assets/dcb818b1-6928-44c1-964c-4c25a32e8799)
+![Image](https://github.com/user-attachments/assets/3b88416b-4679-40d5-bc37-94acc5f1df41)
 
 ## 🧩 Tecnologias Utilizadas
 
