@@ -16,15 +16,6 @@
 ### Gameplay:
 ![Gameplay](prints/gameplay.png)
 
-### Sprites utilizados:
-![Sprite 1](https://github.com/user-attachments/assets/e36d1ace-6908-4a55-86a5-72639764cf72)  
-![Sprite 2](https://github.com/user-attachments/assets/a2b81615-84d3-4db9-b96f-8b3423d513f3)  
-![Sprite 3](https://github.com/user-attachments/assets/8bc2feac-e914-42bc-814d-41cd410289e4)  
-![Sprite 4](https://github.com/user-attachments/assets/2c79919f-6a93-4ca1-af66-4d48e6184f7f)  
-![Sprite 5](https://github.com/user-attachments/assets/5d14d07a-8c4c-4010-bbe4-7c747d03ad5a)  
-![Sprite 6](https://github.com/user-attachments/assets/c7a5d6cb-44d9-40ff-bc35-47d51466fd04)
-
-
 ## 🧩 Tecnologias Utilizadas
 
 - HTML5, CSS3, JavaScript  
