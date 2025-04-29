@@ -11,7 +11,13 @@
 ## 🖼️ Prints da Aplicação
 
 ### Tela inicial:
-![Tela inicial](prints/tela_inicial.png)
+![Image](https://github.com/user-attachments/assets/917edca0-6079-4fe7-a1f5-97a92b746483)
+![Image](https://github.com/user-attachments/assets/b25e2f20-8244-46e6-adad-fbe9b5e7b8b7)
+![Image](https://github.com/user-attachments/assets/21c000c8-458d-4c00-a6b1-7ce92a108657)
+
+![Image](https://github.com/user-attachments/assets/0dac2434-2c63-4f8d-a9f1-665527b9057d)
+![Image](https://github.com/user-attachments/assets/e58eb442-bbbb-403e-80e7-762513b40fbe)
+![Image](https://github.com/user-attachments/assets/e4a0d687-e9ab-490e-83fd-af7220f19d49)
 
 ### Gameplay:
 ![Gameplay](prints/gameplay.png)
