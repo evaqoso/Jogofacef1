@@ -20,7 +20,7 @@
 ![Image](https://github.com/user-attachments/assets/e4a0d687-e9ab-490e-83fd-af7220f19d49)
 
 ### Gameplay:
-![Gameplay](prints/gameplay.png)
+![Image](https://github.com/user-attachments/assets/dcb818b1-6928-44c1-964c-4c25a32e8799)
 
 ## 🧩 Tecnologias Utilizadas
 
